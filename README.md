@@ -1,13 +1,13 @@
 ## Colourful Calculator 🧮
 A Colourful Calculator project developed using Java Swing for a Pre-School Principal to provide young students with a fun and engaging way to learn basic mathematical operations. The application features a vibrant and user-friendly interface designed specifically for early learners.
 
-Key Features:
+✅ Key Features:
 
-Addition, subtraction, multiplication, and division functionalities
++ Addition, subtraction, multiplication, and division functionalities
 
-Colorful and interactive GUI using Java Swing components
++ Colorful and interactive GUI using Java Swing components
 
-Simple and intuitive layout for young users
++ Simple and intuitive layout for young users
 
 Design Pattern Used:
 
