@@ -1,0 +1,46 @@
+------------------------------------------------------------------------
+                    THIRISSHA GANGATHARAN 
+------------------------------------------------------------------------
+
+PROJECT TITLE: Pre-School Calculator
+
+
+`USER INSTRUCTIONS:- main file : CreativeCalculator
+
+To run the calculator compile all 4 java files and then run the 
+"CreativeCalculator.java" class to launch the Calculator.
+
+The creative calculator uses the MVC architecture and it allows
+basic arithmetic calculations with a GUI.
+
+~Model: The model represents the data and the logic of the application.
+        ArithmeticCalculation class is the model as it performs the arithmetic operations
+        (addition, multiplication, subtraction and division).
+
+~View: The view is the user interface that displays data to the user
+       and receives user input. CalculatorDesign class is the view where
+       it defines the layout of the calculator and handles the display.
+       
+~Controller: The controller acts as an intermediate between model and view.
+             CalculatorChecker class is the controller which coordinates
+             the user interactions, like button clicks and calculation results.
+
+
+- USER INTERFACE
+Display Field: Shows the input and the results.
+
+Number Button(0-9): Click to input numbers.
+
+Operator Button(+, -, *, /): Click to choose an operation.
+
+Equals Button(=): Click to calculate the result.
+
+Clear Button(CLR): Click to reset the display.
+
+
+- ERROR HANDLING
+Invalid Input: Displays "Invalid Input, Try Again :("
+
+Division by Zero: Displays "Math Error o_o"
+
+Syntax Error: Displays "Syntax Error T.T"
